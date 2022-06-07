@@ -2,4 +2,4 @@
 
 ## 1. Pomodoro
 
-- Questions and decesions.
+- The code works properly.
