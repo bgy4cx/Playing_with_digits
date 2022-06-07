@@ -37,10 +37,10 @@
 
 ### Guardinas
 
-- Input is two positive integer.🔴💿🟢💿
-- Output is an integer.🔴💿🟢💿
+- Input is two positive integer.🔴💿🟢💿♻️💿🍅
+- Output is an integer.🔴💿🟢💿♻️💿🍅
 
 ### Process
 
-- Formul:"(a ^ p + b ^ (p+1) + c ^(p+2) + d ^ (p+3) + ...) = n * k". 🔴💿🟢💿
-- The result should be k if the formula is true. If it is not true the result is -1. 🔴💿🟢💿
+- Formul:"(a ^ p + b ^ (p+1) + c ^(p+2) + d ^ (p+3) + ...) = n * k". 🔴💿🟢💿♻️💿🍅
+- The result should be k if the formula is true. If it is not true the result is -1. 🔴💿🟢💿♻️💿🍅🍅
