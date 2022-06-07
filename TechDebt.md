@@ -3,3 +3,7 @@
 ## 1. Pomodoro
 
 - The code works properly.
+
+## 2. Pomodoro
+
+- The code was refactored.
